@@ -1,5 +1,5 @@
 # SQL | TABLEAU
-Data exploratory analysis conducted utilizing PostgreSQL and creation of a dynamic and informative dashboard in Tableau. The main goal was create a sales dashboard with the main performance indicators and the key drivers of the month's results for a car e-commerce business.<br/>
+Data exploratory analysis conducted utilizing PostgreSQL and creation of a dynamic and informative dashboard in Tableau. The main goal was create a sales dashboard with the main performance indicators and the key drivers of the month's results for a e-commerce car business.<br/>
 
 Below is my code in SQL used to conduct the Data Exploratory Analysis:<br/>
 
