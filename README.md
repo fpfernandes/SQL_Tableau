@@ -125,4 +125,5 @@ Here are a few of my takeaways:<br/>
 
 Below you will find a picture of the final dashboard, but **if you want to access the live dashboard in Tableau public, please click on the following link:** https://public.tableau.com/app/profile/fabiana.fernandes/viz/Dash_vendas_16905561954870/Dashboard1
 
+![alt text](https://github.com/fpfernandes/SQL_Tableau/blob/61c23545eb4529f2e7d7b48d3453a04e6a97de79/dash_tableau.PNG)
 
