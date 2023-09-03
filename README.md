@@ -1,5 +1,5 @@
 # SQL | TABLEAU
-Data exploratory analysis conducted utilizing PostgreSQL and creation of a dynamic and informative dashboard in Tableau. The main goal was create a sales dashboard with the main performance indicators and the key drivers of the month's results for our e-commerce.<br/>
+Data exploratory analysis conducted utilizing PostgreSQL and creation of a dynamic and informative dashboard in Tableau. The main goal was create a sales dashboard with the main performance indicators and the key drivers of the month's results for a car e-commerce business.<br/>
 
 Below is my code in SQL used to conduct the Data Exploratory Analysis:<br/>
 
@@ -115,7 +115,7 @@ After I finished my data analysis, I saved the query results in a CSV file and i
 - Line and clustered column chart for visual on number of Leads and Conversion Rates by month.
 - Clustered Column Chart for visual on Days of the Week with the highest number of visits.<br/>
 
-Here are a few of my takeaways:<br/>
+**Here are a few of my takeaways:**
 - There isn't a strong correlation between the average ticket price and revenue growth, as average ticket price has remained relatively stable over the time period showed on the dashboard.
 - There is a direct correlation between the leads conversion rate and the number of leads. When the conversion rate increases, the number of leads also rises, subsequently boosting revenue during the displayed time period.
 - The day of the week with the highest number of visits is Monday.
