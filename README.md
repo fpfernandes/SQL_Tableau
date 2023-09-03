@@ -1,4 +1,4 @@
-# SQL_Tableau
+# SQL | TABLEAU
 Data exploratory analysis conducted utilizing PostgreSQL and creation of a dynamic and informative dashboard in Tableau. This powerful combination provided an in-depth overview of key metrics, including Revenue, Average Ticket Price, Leads Conversion Rate, Number of Visits, and insights into the top-performing stores, brands, and states.<br/>
 
 Below is my code in SQL used to conduct the Data Exploratory Analysis:<br/>
