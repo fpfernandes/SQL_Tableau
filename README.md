@@ -1,5 +1,5 @@
 # SQL | TABLEAU
-Data exploratory analysis conducted utilizing PostgreSQL and creation of a dynamic and informative dashboard in Tableau. This powerful combination provided an in-depth overview of key metrics, including Revenue, Average Ticket Price, Leads Conversion Rate, Number of Visits, and insights into the top-performing stores, brands, and states.<br/>
+Data exploratory analysis conducted utilizing PostgreSQL and creation of a dynamic and informative dashboard in Tableau. The main goal was create a sales dashboard with the main performance indicators and the key drivers of the month's results for our e-commerce.<br/>
 
 Below is my code in SQL used to conduct the Data Exploratory Analysis:<br/>
 
@@ -104,5 +104,25 @@ where visit_page_date between '2021-08-01' and '2021-08-31'
 group by day_of_week
 order by day_of_week 
 ```
+After I finished my data analysis, I saved the query results in a CSV file and imported the data into Tableau and create the dashboard.<br/>
+
+**Dashboard Breakdown:**
+- The average ticket price represents the mean amount paid for each car.
+- Lead conversion rate quantifies the percentage of leads (potential customers) successfully transformed into paying customers.
+- Bar charts for a visual on the top-performing sales stores, brands, and states.
+- Map for a visual on the top-performing sales states.
+- Line and clustered column chart for visual on evolution of Revenue and Average Ticket Price of vehicles bough by month on the website.
+- Line and clustered column chart for visual on number of Leads and Conversion Rates by month.
+- Clustered Column Chart for visual on Days of the Week with the highest number of visits.<br/>
+
+Here are a few of my takeaways:<br/>
+- There isn't a strong correlation between the average ticket price and revenue growth, as average ticket price has remained relatively stable over the time period showed on the dashboard.
+- There is a direct correlation between the leads conversion rate and the number of leads. When the conversion rate increases, the number of leads also rises, subsequently boosting revenue during the displayed time period.
+- The day of the week with the highest number of visits is Monday.
+- The top selling state is SP.
+- The top selling brand is Fiat.
+- The top selling store is Speedy Wheels Auto.<br/>	
+
+Below you will find a picture of the final dashboard, but **if you want to access the live dashboard in Tableau public, please click on the following link:** https://public.tableau.com/app/profile/fabiana.fernandes/viz/Dash_vendas_16905561954870/Dashboard1
 
 
